@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @robbi-e
+- 🌱 I’m currently learning C/C++
+- 📫 How to reach me: email me at robbiecloset195@gmail.com
